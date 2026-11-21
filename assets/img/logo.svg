@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 104" fill="none" stroke="url(#g)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" shape-rendering="geometricPrecision" role="img" aria-label="Cairo Perfumes">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3dc9b"/><stop offset=".55" stop-color="#d4af63"/><stop offset="1" stop-color="#b08a3e"/>
+    </linearGradient>
+  </defs>
+  <!-- полумесец и звезда -->
+  <path d="M40 2.5a8.5 8.5 0 1 0 7.6 12.2A6.9 6.9 0 1 1 40 2.5z" fill="url(#g)" stroke="none"/>
+  <path d="M52 5l1.1 2.4 2.4 1.1-2.4 1.1L52 12l-1.1-2.4-2.4-1.1 2.4-1.1z" fill="url(#g)" stroke="none"/>
+  <!-- шишенце -->
+  <circle cx="40" cy="22.5" r="1.8" fill="url(#g)" stroke="none"/>
+  <path d="M40 25c-3.6 5.4-7 8-7 13.5h14c0-5.5-3.4-8.1-7-13.5z"/>
+  <path d="M36 38.5h8v5h-8z"/>
+  <path d="M30.5 43.5h19l3.5 5.5v31c0 3.3-1.7 5-5 5H32c-3.3 0-5-1.7-5-5V49z"/>
+  <path d="M33 77V63.5a7 7 0 0 1 14 0V77z" stroke-width="1.8"/>
+  <path d="M33 56.5h14" stroke-width="1.4"/>
+  <!-- орнаментални дъги -->
+  <path d="M19 30C5 44 5 70 20 87"/>
+  <path d="M61 30c14 14 14 40-1 57"/>
+  <path d="M12.5 46c-2.2 8-1.2 17 4 25M67.5 46c2.2 8 1.2 17-4 25" stroke-width="1.5"/>
+  <path d="M24 95.5q16 6 32 0" stroke-width="1.8"/>
+</svg>
